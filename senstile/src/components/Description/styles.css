@@ -1,0 +1,18 @@
+.description {
+
+}
+
+.description__categories {
+    display: flex;
+    justify-content: center;
+}
+
+.description__category {
+    padding: 10px 10px;
+    text-transform: uppercase;
+}
+
+.description__category:hover {
+    cursor: pointer;
+    background-color: gray;
+}

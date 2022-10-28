@@ -1,0 +1,19 @@
+.comments {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: relative;
+}
+
+.comments__list {
+    padding-top: 10px;
+    padding-left: 20px;
+    position: absolute;
+}
+
+.comments__item {
+    margin: 10px 0px;
+}
+
+.comments__author {
+    font-weight: bold;
+}

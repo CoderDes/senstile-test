@@ -1,0 +1,12 @@
+.description-block {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.description-block__image {
+    display: block;
+    width: 25%;
+    height: 25%;
+}

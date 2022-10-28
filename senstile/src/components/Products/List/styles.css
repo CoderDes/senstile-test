@@ -1,0 +1,14 @@
+.collection {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 100%;
+    margin: 25% auto;
+    justify-content: space-evenly;
+}
+
+.collection--vert {
+    flex-direction: column;
+    width: 20%;
+    margin: 0 auto;
+}
